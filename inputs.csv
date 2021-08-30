@@ -1,0 +1,3 @@
+***Test Cases ***,${url},${mobile_added_to_cart},${verification}
+Valid_scenario,https://www.flipkart.com/,"realme C21 (Cross Blue, 64 GB)","realme C21 (Cross Blue, 64 GB)"
+Invalid_scenario,https://www.flipkart.com/,"realme C21 (Cross Blue, 64 GB)","realme C10 (Cross Black, 60 GB)"
